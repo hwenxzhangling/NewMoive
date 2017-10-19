@@ -1,0 +1,52 @@
+//
+//  TLIconFontUnicode.pch
+//  1122Tool
+//
+//  Created by wapushidai on 16/10/9.
+//  Copyright © 2016年 wapushidai. All rights reserved.
+//
+
+#ifndef TLIconFontUnicode_pch
+#define TLIconFontUnicode_pch
+
+//星星，收藏，喜爱，喜欢
+#define KTLFont_Xingxing_iconUnicode            @"\U0000e600"
+//添加
+#define KTLFont_Add_iconUnicode                 @"\U0000e606"
+//新浪
+#define KTLFont_SinaShare_iconUnicode           @"\U0000e601"
+//qq
+#define KTLFont_QQ_iconUnicode                  @"\U0000e602"
+//qq空间
+#define KTLFont_QQqzone_iconUnicode             @"\U0000e603"
+//微信朋友圈
+#define KTLFont_WXFriend_iconUnicode            @"\U0000e604"
+//微信
+#define KTLFont_WX_iconUnicode                  @"\U0000e605"
+//系统更新
+#define KTLFont_SysteUpdate_iconUnicode         @"\U0000e607"
+//完成
+#define KTLFont_Done_iconUnicode                @"\U0000e608"
+//警告
+#define KTLFont_Warning_iconUnicode             @"\U0000e609"
+//最新版本
+#define KTLFont_New_iconUnicode                 @"\U0000e60a"
+//下载更新
+#define KTLFont_Dowload_iconUnicode             @"\U0000e60b"
+//关于我们
+#define KTLFont_AboutMe_iconUnicode             @"\U0000e60c"
+//反馈
+#define KTLFont_Feedback_iconUnicode            @"\U0000e60d"
+//分享app
+#define KTLFont_ShareApp_iconUnicode            @"\U0000e60e"
+//感谢
+#define KTLFont_Thank_iconUnicode               @"\U0000e60f"
+//清扫
+#define KTLFont_clean_iconUnicode               @"\U0000e610"
+//添加更多
+#define KTLFont_addMore_iconUnicode             @"\U0000e611"
+//搜索
+#define KTLFont_Search_iconUnicode              @"\U0000e612"
+
+
+#endif /* TLIconFontUnicode_pch */

@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+
+target 'MoivePlace' do
+pod 'AFNetworking', '~> 3.0'
+pod 'Masonry'
+pod 'SVProgressHUD'
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+pod 'MBProgressHUD', '~> 1.0.0'
+pod "Small", :git => 'https://github.com/wequick/Small.git'
+end

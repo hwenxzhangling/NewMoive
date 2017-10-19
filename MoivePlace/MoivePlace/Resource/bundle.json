@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "bundles": [
+                {
+                "uri": "gif",
+                "pkg": "com.cxmx.movie.small.app.gif"
+                },
+                {
+                "uri": "video",
+                "pkg": "com.cxmx.movie.small.app.video"
+                }
+                ]
+}
